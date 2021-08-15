@@ -1,7 +1,7 @@
 # QuezonMap_Streamlit
 
-#mapping quezon covid active cases using folium and streamlit
-#note: data is not recent and updated. this is sample only
+mapping quezon covid active cases using folium and streamlit
+note: data is not recent and updated. this is sample only
 
 
 #video link : https://youtu.be/_ggIcWxRDdE
